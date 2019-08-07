@@ -158,7 +158,7 @@ en:
       help: If you believe this is a mistake, please contact your system administrator.
   expired_reset_token: Password reset link has expired!
   features:
-    title:
+    title: 
     rooms: Interview Sessions
     recordings: Consulting Sessions
     designs: Meetings
